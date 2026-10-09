@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 The --watch flag loops every 30 seconds. Ctrl-C to quit.
 
-<!-- checked: 2026-10-08 -->
+<!-- checked: 2026-10-09 -->
